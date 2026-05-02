@@ -3,6 +3,3 @@ node_modules/
 
 #for env file 
 .env
-
-#for vscode
-.vscode/
